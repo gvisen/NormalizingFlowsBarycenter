@@ -10,11 +10,11 @@ Here you can find the code for:
 
 This implementation is written in Python, is both GPU and CPU-compatible, and builds on `PyTorch` and the `normflows` package. All experiments in the paper were run either on an NVIDIA GeForce RTX 4090 GPU with 24 GB of memory or an NVIDIA RTX 6000 Ada with 48 GB. 
 
-[!CAUTION]
-The code was tested exclusively on the package versions listed in `requirements.txt`.
+> [!CAUTION]
+> The code was tested exclusively on the package versions listed in `requirements.txt`.
 
-[!IMPORTANT]
-To run the MNIST dataset, download and save the MNIST dataset in the folder `data/`.
+> [!IMPORTANT]
+> To run the MNIST dataset, download and save the MNIST dataset in the folder `data/`.
 
 ## Code overview
 
